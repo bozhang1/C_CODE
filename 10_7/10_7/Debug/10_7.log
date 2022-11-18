@@ -1,0 +1,11 @@
+﻿  Test.c
+D:\Code\10_7\10_7\Test.c(76): warning C4020: “AddCapacity”: 实参太多
+D:\Code\10_7\10_7\Test.c(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Code\10_7\10_7\Test.c(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Code\10_7\10_7\Test.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Code\10_7\10_7\Test.c(74): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  10_7.vcxproj -> D:\Code\10_7\Debug\10_7.exe
